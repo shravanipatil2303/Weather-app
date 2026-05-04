@@ -26,3 +26,4 @@ API key is not included for security reasons.
 
 ![App Screenshot 1](pss1.JPG)
 ![App Screenshot 2](pss2.JPG)
+![App Screenshot 3](pss3.JPG)
