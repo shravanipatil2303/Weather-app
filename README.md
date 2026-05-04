@@ -24,5 +24,5 @@ API key is not included for security reasons.
 
 ## 📷 Screenshots
 
-![App Screenshot 1](pss1.png)
-![App Screenshot 2](pss2.png)
+![App Screenshot 1](pss1.JPG)
+![App Screenshot 2](pss2.JPG)
